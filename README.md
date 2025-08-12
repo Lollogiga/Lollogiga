@@ -7,8 +7,6 @@ I enjoy exploring new technologies, working on academic and personal projects, a
 ---
 
 ## 📫 Contact
-
-- 📧 Email: [lorenzo.grande@hotmail.it](mailto:lorenzo.grande@hotmail.it)
 - 💼 LinkedIn: [linkedin.com/in/lorenzogrande](http://www.linkedin.com/in/lorenzo-grande-9b9505236/)
 
 ---
